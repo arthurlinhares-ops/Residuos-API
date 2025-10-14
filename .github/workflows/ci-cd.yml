@@ -27,7 +27,14 @@ jobs:
         working-directory: ./Residuos_API
         run: dotnet build --configuration Release --no-restore
 
-     
+      - name: 🔹 Executar testes
+        working-directory: ./Residuos_API_Test
+        env:
+          ASPNETCORE_ENVIRONMENT: Development
+          CONTENT_ROOT: ${{ github.workspace }}/Residuos_API
+        run: |
+          echo "Executando testes com base em: $CONTENT_ROOT"
+          dotnet test --no-build --verbosity normal --logger "trx;LogFileName=test_results.trx"
 
       - name: 🔹 Publicar artefato (build)
         working-directory: ./Residuos_API
