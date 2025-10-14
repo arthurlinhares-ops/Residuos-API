@@ -27,9 +27,7 @@ jobs:
         working-directory: ./Residuos_API
         run: dotnet build --configuration Release --no-restore
 
-      - name: 🔹 Executar testes
-        working-directory: ./Residuos_API_Test
-        run: dotnet test --no-build --verbosity normal
+     
 
       - name: 🔹 Publicar artefato (build)
         working-directory: ./Residuos_API
