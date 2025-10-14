@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Residuos_API": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

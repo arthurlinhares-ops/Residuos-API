@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6046D00E-FCFE-4DC5-89CE-A6DA34B3D671}|..\\Residuos_API_Test\\Residuos_API_Test.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api_test\\collectionpointscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6046D00E-FCFE-4DC5-89CE-A6DA34B3D671}|..\\Residuos_API_Test\\Residuos_API_Test.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\residuos_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:residuos_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\controllers\\collectionpointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:controllers\\collectionpointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\services\\collectionpointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:services\\collectionpointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\models\\createcollectionpointviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:models\\createcollectionpointviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\models\\collectionpointviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:models\\collectionpointviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\data\\entities\\collectionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:data\\entities\\collectionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|c:\\users\\arthur.linhares\\onedrive - nord anglia education - the americas\\documentos\\projetos-net\\residuos_api\\migrations\\20250614000836_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656F030-9363-4A75-9EE4-EC762590906A}|Residuos_API.csproj|solutionrelative:migrations\\20250614000836_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionPointsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API_Test\\CollectionPointsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Residuos_API_Test\\CollectionPointsControllerTests.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API_Test\\CollectionPointsControllerTests.cs",
+              "RelativeToolTip": "..\\Residuos_API_Test\\CollectionPointsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T01:34:13.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API_Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Residuos_API_Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API_Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Residuos_API_Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T01:32:39.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollectionPointService.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Services\\CollectionPointService.cs",
+              "RelativeDocumentMoniker": "Services\\CollectionPointService.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Services\\CollectionPointService.cs",
+              "RelativeToolTip": "Services\\CollectionPointService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:11:53.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollectionPointsController.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Controllers\\CollectionPointsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CollectionPointsController.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Controllers\\CollectionPointsController.cs",
+              "RelativeToolTip": "Controllers\\CollectionPointsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:26:49.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:43:47.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T01:10:24.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Residuos_API.csproj",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Residuos_API.csproj",
+              "RelativeDocumentMoniker": "Residuos_API.csproj",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Residuos_API.csproj",
+              "RelativeToolTip": "Residuos_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T00:20:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCollectionPointViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Models\\CreateCollectionPointViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CreateCollectionPointViewModel.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Models\\CreateCollectionPointViewModel.cs",
+              "RelativeToolTip": "Models\\CreateCollectionPointViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:51:30.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T00:43:16.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollectionPointViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Models\\CollectionPointViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CollectionPointViewModel.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Models\\CollectionPointViewModel.cs",
+              "RelativeToolTip": "Models\\CollectionPointViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:10:55.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250614000836_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Migrations\\20250614000836_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250614000836_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Migrations\\20250614000836_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250614000836_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:08:37.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:07:44.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:51:33.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CollectionPoint.cs",
+              "DocumentMoniker": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Data\\Entities\\CollectionPoint.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\CollectionPoint.cs",
+              "ToolTip": "C:\\Users\\arthur.linhares\\OneDrive - Nord Anglia Education - The Americas\\Documentos\\projetos-net\\Residuos_API\\Data\\Entities\\CollectionPoint.cs",
+              "RelativeToolTip": "Data\\Entities\\CollectionPoint.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:50:54.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

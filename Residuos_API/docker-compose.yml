@@ -1,0 +1,35 @@
+version: '3.9'
+
+services:
+  residuos_api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: residuos_api
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    depends_on:
+      - residuos_db
+    networks:
+      - residuos_net
+
+  residuos_db:
+    image: oracleinanutshell/oracle-xe-11g
+    container_name: residuos_db
+    environment:
+      - ORACLE_ALLOW_REMOTE=true
+      - ORACLE_DISABLE_ASYNCH_IO=true
+    ports:
+      - "1521:1521"
+    volumes:
+      - oracle_data:/u01/app/oracle
+    networks:
+      - residuos_net
+
+networks:
+  residuos_net:
+
+volumes:
+  oracle_data:
