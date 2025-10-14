@@ -34,7 +34,7 @@ jobs:
           CONTENT_ROOT: ${{ github.workspace }}/Residuos_API
         run: |
           echo "Executando testes..."
-          dotnet test --no-build --verbosity normal || echo "⚠️ Testes falharam, mas pipeline continuará."
+          dotnet test --no-build --verbosity normal || echo 
 
       - name: 🔹 Publicar artefato (build)
         working-directory: ./Residuos_API
